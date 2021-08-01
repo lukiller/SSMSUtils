@@ -1,0 +1,2 @@
+# SSMSUtils
+Macros for SSMS
